@@ -45,7 +45,3 @@ This project implements a two-phase **Simplex Method** in MATLAB for solving Lin
 - `inventory5.db` — Sample data (for production mode)
 
 ---
-
-## 📬 Contact
-
-Connect on [LinkedIn](https://www.linkedin.com/in/prannoy-kathiresan) for queries or collab!

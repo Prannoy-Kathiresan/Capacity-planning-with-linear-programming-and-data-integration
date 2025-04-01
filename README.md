@@ -2,8 +2,6 @@
 
 This project implements a two-phase **Simplex Method** in MATLAB for solving Linear Programming problems with support for test cases and real-world production scenarios.
 
-> 👨‍💻 By: Prannoy Kathiresan
-
 ---
 
 ## 🚀 Features
